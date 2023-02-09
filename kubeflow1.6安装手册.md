@@ -104,17 +104,17 @@ http://192.168.123.236:8080 or http://192.168.123.236:32675/
 
 创建nodebook
 
-![avatar](C:\Users\maojing.MINIVISION\Desktop\pic\create_notebook.png)
+![avatar](pic\create_notebook.png)
 
 <img src="file:///C:/Users/maojing.MINIVISION/Desktop/pic/new_notebook.png" title="" alt="avatar" width="990">
 
 等待容器启动，然后点击CONNECT
 
-![avator](C:\Users\maojing.MINIVISION\Desktop\pic\connect.png)
+![avator](pic\connect.png)
 
 创建训练集
 
-![](C:\Users\maojing.MINIVISION\Desktop\pic\new_py3.png)
+![](pic\new_py3.png)
 
 demo（需要配置proxy，否则无法拉取google资源）
 
@@ -214,7 +214,7 @@ def main(argv=None):
 
 执行main方法
 
-![](C:\Users\maojing.MINIVISION\Desktop\pic\run.png)
+![](pic\run.png)
 
 
 
