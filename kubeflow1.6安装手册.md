@@ -104,16 +104,16 @@ http://192.168.123.236:8080 or http://192.168.123.236:32675/
 
 创建nodebook
 
-![avatar]([pic\](https://github.com/maojing0609/install-guide/blob/main/pic/create_notebook.png)
+![avatar](https://github.com/maojing0609/install-guide/blob/main/pic/create_notebook.png)
 
 
 等待容器启动，然后点击CONNECT
 
-![avator]([pic\](https://github.com/maojing0609/install-guide/blob/main/pic/connect.png)
+![avator](https://github.com/maojing0609/install-guide/blob/main/pic/connect.png)
 
 创建训练集
 
-![]([pic\new_py3.png](https://github.com/maojing0609/install-guide/blob/main/pic/new_py3.png))
+![avator](https://github.com/maojing0609/install-guide/blob/main/pic/new_py3.png)
 
 demo（需要配置proxy，否则无法拉取google资源）
 
@@ -213,7 +213,7 @@ def main(argv=None):
 
 执行main方法
 
-![avator]([pic\run.png](https://github.com/maojing0609/install-guide/blob/main/pic/run.png))
+![avator](https://github.com/maojing0609/install-guide/blob/main/pic/run.png)
 
 
 
